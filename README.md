@@ -9,4 +9,7 @@
 
 ![image](https://github.com/Kimsswift/UserInfoSystemDemo_mysql/blob/master/server1.png)
 
-上图是服务器端，因为服务器第一次开启时，数据库中已经存在了两个用户的数据，所以第一行就先出现了两个用户的数据库数据
+上图是服务器端，因为服务器第一次开启时，数据库中已经存在了两个用户的数据，所以第一行就先出现了两个用户的数据库数据  
+
+![image](https://github.com/Kimsswift/UserInfoSystemDemo_mysql/blob/master/mysql1.png)  
+上图是数据库中的存储用户信息的表
